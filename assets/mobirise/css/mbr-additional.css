@@ -1723,6 +1723,8 @@ body {
   flex-basis: auto;
 }
 .cid-qAjH6TSK7d {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/girl-2848057-1920-1920x1131.jpg");
 }
 .cid-qAjH6TSK7d H1 {
@@ -1739,7 +1741,7 @@ body {
 .cid-qC8tDav92T {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(45deg, #232323, #cc2952);
+  background: linear-gradient(45deg, #7f1933, #cc2952);
 }
 .cid-qC8tDav92T .main {
   flex-direction: row-reverse;
@@ -1752,6 +1754,7 @@ body {
 }
 .cid-qC8tDav92T H2 {
   text-align: right;
+  color: #f7ed4a;
 }
 .cid-qC8tDav92T H3 {
   text-align: center;
@@ -1762,8 +1765,8 @@ body {
   background-image: url("../../../assets/images/andrian-valeanu-82531-2000x1335.jpg");
 }
 .cid-qC25NfaKgx {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
 .cid-qC25NfaKgx .mbr-section-subtitle {
@@ -1776,8 +1779,8 @@ body {
   color: #149dcc;
 }
 .cid-qC1yuv32nx {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/art-2554227-1920-1920x1280.jpg");
 }
 .cid-qC1yuv32nx h4 {
@@ -1820,7 +1823,7 @@ body {
   margin-bottom: 0;
 }
 .cid-qBEocym1Wi {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #0f7699;
 }
@@ -1829,6 +1832,9 @@ body {
 }
 .cid-qBEocym1Wi H2 {
   color: #ffffff;
+}
+.cid-qBEocym1Wi B {
+  color: #232323;
 }
 .cid-qAqb8mSssD {
   padding-top: 30px;
@@ -1905,6 +1911,9 @@ body {
 }
 .cid-qC1tMioXta LABEL {
   color: #ffffff;
+}
+.cid-qC1tMioXta .mbr-section-subtitle B {
+  color: #f7ed4a;
 }
 .cid-qBF4GmE4xF {
   padding-top: 30px;
